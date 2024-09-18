@@ -1,8 +1,11 @@
 ## 👩‍🎨 Welcome!! to the UA Buchtel College of Arts & Sciences Organization for Web Designers & Editors! 🎨
 
-**The primary purpose is to track issues through our main repository called `uakron.edu/bcas`, there is no code here to program with.**
+### Main Repository
+https://github.com/UA-Buchtel-College-Design/uakron.edu-bcas
 
-Our repository `uakron.edu/bcas` shall include some documentation of the system to get a new designer started, but it will mostly be used for **issues.** Issues in the `uakron.edu/bcas` repository allow for assigning REDESIGNS, ADDITIONS, and FIXES to members of this organization.
+**The primary purpose is to track issues through our main repository called `uakron.edu-bcas`, there is no code here to program with.**
+
+Our repository `uakron.edu-bcas` shall include some documentation of the system to get a new designer started, but it will mostly be used for **issues.** Issues in the `uakron.edu-bcas` repository allow for assigning REDESIGNS, ADDITIONS, and FIXES to members of this organization.
 
 ### ISSUE TYPES:
 
